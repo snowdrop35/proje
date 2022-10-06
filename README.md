@@ -4,5 +4,8 @@
 
 ## Screen Gifi
 
-https://user-images.githubusercontent.com/114514678/194221732-fc5b3597-5952-4ee1-847d-c96751aeaa58.mp4
+
+
+https://user-images.githubusercontent.com/114514678/194226124-3d3f7af4-ab57-43c4-bd01-aafe21523dff.mp4
+
 
