@@ -2,7 +2,7 @@
 # Web sitesi hazırlama
 :computer: Bu Projede; </br> *HTML5* ve *CSS3*'ün bir çok özelliği bir arada kullanılmıştır.
 
-## Screen Gifi
+## Screen 
 
 
 
